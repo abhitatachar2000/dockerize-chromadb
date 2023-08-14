@@ -3,6 +3,6 @@ This GitHub repository showcases an example of running the Chroma DB Server in a
 
 
 ### Steps to make this work:
-1. Clone the repository - git clone https://github.com/abhitatachar2000/dockerize-chromadb.git
-2. cd dockerize-chromadb
-3. docker-compose up --build
+1. Clone the repository -> git clone https://github.com/abhitatachar2000/dockerize-chromadb.git
+2. Move to the directory -> cd dockerize-chromadb
+3. Create containers -> docker-compose up --build
